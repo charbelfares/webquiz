@@ -1,0 +1,35 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input, .select{
+    border-radius: 0;
+    border: 2px dashed black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 3px;
+}
+.input:hover, .select:hover{
+    border: 2px solid black;
+}
+.form{
+    border:2px dashed black;
+    width: 250px;
+    text-align: center;
+    margin:0 auto ;
+
+}
+.form:hover{
+    border:2px solid black;
+
+}
+
+@font-face {
+    font-family: zaber;
+    src: url(fonts\IntroScriptDemo-Medium.ttf);
+    
+}
+.title{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-align: center;
+    font-family: zaber;
+}

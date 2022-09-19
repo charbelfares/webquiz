@@ -1,0 +1,15 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-align: center;
+}
+.form{
+    border:2px dashed black;
+    width: 250px;
+    text-align: center;
+    margin:0 auto ;
+
+}

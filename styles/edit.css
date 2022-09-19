@@ -1,0 +1,20 @@
+.question1{
+    border:2px dashed black;
+    width: 40%;
+}
+    .button{
+        border-radius: 0;
+        background-color: transparent;
+        border:2px dashed black;
+    }
+    .button:hover{
+        border:2px solid black;
+    }
+    body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.reponse{
+    border:2px solid green;
+    width: 40%;
+
+}
